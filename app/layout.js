@@ -1,3 +1,5 @@
+import './globals.css';
+
 export const metadata = {
   title: '右下肢矯正 App',
   description: '右側下肢矯正訓練計畫',
